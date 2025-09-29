@@ -1,4 +1,5 @@
-description: A new TrueGRF project
+description: Towns named for neighborhoods in Chicago proper
 license: CC0-1.0
+name: Chicago Town Names
 type: townname
 version: 6
