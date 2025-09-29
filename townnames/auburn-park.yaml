@@ -1,7 +1,9 @@
 available: false
 id: 24
 mainset:
-- names: []
+- names:
+  - name: Auburn Park
+    probability: 1
 name: Auburn Park
 source: null
 subsets: []

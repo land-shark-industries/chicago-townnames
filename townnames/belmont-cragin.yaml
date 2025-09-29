@@ -1,7 +1,9 @@
 available: false
 id: 79
 mainset:
-- names: []
+- names:
+  - name: Belmont Cragin
+    probability: 1
 name: Belmont Cragin
 source: null
 subsets: []

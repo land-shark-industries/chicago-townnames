@@ -1,7 +1,9 @@
 available: false
 id: 54
 mainset:
-- names: []
+- names:
+  - name: South Loop
+    probability: 1
 name: South Loop
 source: null
 subsets: []

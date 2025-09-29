@@ -1,7 +1,9 @@
 available: false
 id: 5
 mainset:
-- names: []
+- names:
+  - name: Altgeld Gardens
+    probability: 1
 name: Altgeld Gardens
 source: null
 subsets: []

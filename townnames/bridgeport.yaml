@@ -1,7 +1,9 @@
 available: false
 id: 47
 mainset:
-- names: []
+- names:
+  - name: Bridgeport
+    probability: 1
 name: Bridgeport
 source: null
 subsets: []

@@ -1,7 +1,9 @@
 available: false
 id: 49
 mainset:
-- names: []
+- names:
+  - name: Little Village
+    probability: 1
 name: Little Village
 source: null
 subsets: []

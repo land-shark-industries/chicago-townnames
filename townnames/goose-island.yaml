@@ -1,7 +1,9 @@
 available: false
 id: 81
 mainset:
-- names: []
+- names:
+  - name: Goose Island
+    probability: 1
 name: Goose Island
 source: null
 subsets: []

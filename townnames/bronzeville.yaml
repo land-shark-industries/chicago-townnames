@@ -1,7 +1,9 @@
 available: false
 id: 44
 mainset:
-- names: []
+- names:
+  - name: Bronzeville
+    probability: 1
 name: Bronzeville
 source: null
 subsets: []

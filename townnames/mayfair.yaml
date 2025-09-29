@@ -1,7 +1,9 @@
 available: false
 id: 105
 mainset:
-- names: []
+- names:
+  - name: Mayfair
+    probability: 1
 name: Mayfair
 source: null
 subsets: []

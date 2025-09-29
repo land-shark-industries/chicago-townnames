@@ -1,7 +1,9 @@
 available: false
 id: 59
 mainset:
-- names: []
+- names:
+  - name: Tri-Taylor
+    probability: 1
 name: Tri-Taylor
 source: null
 subsets: []

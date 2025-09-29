@@ -1,7 +1,9 @@
 available: false
 id: 20
 mainset:
-- names: []
+- names:
+  - name: The Triangle
+    probability: 1
 name: The Triangle
 source: null
 subsets: []

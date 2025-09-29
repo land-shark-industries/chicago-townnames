@@ -1,7 +1,9 @@
 available: false
 id: 42
 mainset:
-- names: []
+- names:
+  - name: Canaryville
+    probability: 1
 name: Canaryville
 source: null
 subsets: []

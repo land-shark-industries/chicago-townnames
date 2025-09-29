@@ -1,7 +1,9 @@
 available: false
 id: 94
 mainset:
-- names: []
+- names:
+  - name: Ravenswood
+    probability: 1
 name: Ravenswood
 source: null
 subsets: []

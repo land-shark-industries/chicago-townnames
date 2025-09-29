@@ -1,7 +1,9 @@
 available: false
 id: 2
 mainset:
-- names: []
+- names:
+  - name: Slag Valley
+    probability: 1
 name: Slag Valley
 source: null
 subsets: []

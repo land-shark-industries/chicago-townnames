@@ -1,7 +1,9 @@
 available: false
 id: 112
 mainset:
-- names: []
+- names:
+  - name: Edgebrook
+    probability: 1
 name: Edgebrook
 source: null
 subsets: []

@@ -1,7 +1,9 @@
 available: false
 id: 27
 mainset:
-- names: []
+- names:
+  - name: Chicago Lawn
+    probability: 1
 name: Chicago Lawn
 source: null
 subsets: []

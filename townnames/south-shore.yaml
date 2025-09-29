@@ -1,7 +1,9 @@
 available: false
 id: 17
 mainset:
-- names: []
+- names:
+  - name: South Shore
+    probability: 1
 name: South Shore
 source: null
 subsets: []

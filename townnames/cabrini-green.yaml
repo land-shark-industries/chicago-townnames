@@ -1,7 +1,9 @@
 available: false
 id: 80
 mainset:
-- names: []
+- names:
+  - name: Cabrini-Green
+    probability: 1
 name: Cabrini-Green
 source: null
 subsets: []

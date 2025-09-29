@@ -1,7 +1,9 @@
 available: false
 id: 90
 mainset:
-- names: []
+- names:
+  - name: Wrigleyville
+    probability: 1
 name: Wrigleyville
 source: null
 subsets: []

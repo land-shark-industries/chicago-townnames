@@ -1,7 +1,9 @@
 available: false
 id: 21
 mainset:
-- names: []
+- names:
+  - name: Grand Crossing
+    probability: 1
 name: Grand Crossing
 source: null
 subsets: []

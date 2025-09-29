@@ -1,7 +1,9 @@
 available: false
 id: 11
 mainset:
-- names: []
+- names:
+  - name: Beverly
+    probability: 1
 name: Beverly
 source: null
 subsets: []

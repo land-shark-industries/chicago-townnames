@@ -1,7 +1,9 @@
 available: false
 id: 70
 mainset:
-- names: []
+- names:
+  - name: Ukrainian Village
+    probability: 1
 name: Ukrainian Village
 source: null
 subsets: []

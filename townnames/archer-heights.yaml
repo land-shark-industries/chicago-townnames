@@ -1,7 +1,9 @@
 available: false
 id: 40
 mainset:
-- names: []
+- names:
+  - name: Archer Heights
+    probability: 1
 name: Archer Heights
 source: null
 subsets: []

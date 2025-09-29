@@ -1,7 +1,9 @@
 available: false
 id: 73
 mainset:
-- names: []
+- names:
+  - name: Wicker Park
+    probability: 1
 name: Wicker Park
 source: null
 subsets: []

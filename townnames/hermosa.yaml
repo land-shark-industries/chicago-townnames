@@ -1,7 +1,9 @@
 available: false
 id: 78
 mainset:
-- names: []
+- names:
+  - name: Hermosa
+    probability: 1
 name: Hermosa
 source: null
 subsets: []

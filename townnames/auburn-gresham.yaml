@@ -1,7 +1,9 @@
 available: false
 id: 23
 mainset:
-- names: []
+- names:
+  - name: Auburn Gresham
+    probability: 1
 name: Auburn Gresham
 source: null
 subsets: []

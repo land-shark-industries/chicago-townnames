@@ -1,7 +1,9 @@
 available: false
 id: 76
 mainset:
-- names: []
+- names:
+  - name: Bucktown
+    probability: 1
 name: Bucktown
 source: null
 subsets: []

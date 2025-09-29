@@ -1,7 +1,9 @@
 available: false
 id: 39
 mainset:
-- names: []
+- names:
+  - name: Garfield Ridge
+    probability: 1
 name: Garfield Ridge
 source: null
 subsets: []

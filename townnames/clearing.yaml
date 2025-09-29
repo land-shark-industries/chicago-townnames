@@ -1,7 +1,9 @@
 available: false
 id: 38
 mainset:
-- names: []
+- names:
+  - name: Clearing
+    probability: 1
 name: Clearing
 source: null
 subsets: []
