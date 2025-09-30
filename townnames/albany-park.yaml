@@ -4,7 +4,6 @@ mainset:
 - names:
   - name: Albany Park
     probability: 1
-- names: []
 name: Albany Park
 source: null
 subsets: []
