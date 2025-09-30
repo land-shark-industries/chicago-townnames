@@ -2,7 +2,10 @@ available: false
 id: 14
 mainset:
 - names:
-  - name: Steelworkers Park
+  - name: Steelworkers
+    probability: 1
+- names:
+  - name: ' Park'
     probability: 1
 name: Steelworkers Park
 source: null
